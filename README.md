@@ -27,7 +27,7 @@ To run this project, you need Python installed on your computer. This game uses 
 3. Run the game:
 
     ```bash
-    python ping_pong_game.py
+    python main.py
     ```
 
 ## Usage
@@ -38,7 +38,7 @@ To run this project, you need Python installed on your computer. This game uses 
 
 ## Project Structure
 
-- `ping_pong_game.py`: The main script to run the game.
+- `main.py`: The main script to run the game.
 - `README.md`: This file, providing information about the project.
 
 ## Contributing
