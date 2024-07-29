@@ -50,3 +50,9 @@ If you would like to contribute to this project, please fork the repository and 
 - The `turtle` module documentation and Python community for providing an easy-to-use graphics library.
 - Ayush Kanyal for creating and maintaining this project.
 
+## Contact
+
+If you have any questions or suggestions, please open an issue on the GitHub repository or contact me directly at ayush.kanyal04@gmail.com.
+
+Game On!
+
